@@ -224,9 +224,9 @@ void Game::GenerateOutput()
 	// Set draw color to blue
 	SDL_SetRenderDrawColor(
 		mRenderer,
-		153,		// R
-		172,		// G
-		255,	// B
+		179,		// R
+		206,		// G
+		243,	// B
 		0		// A
 	);
 	
@@ -234,7 +234,7 @@ void Game::GenerateOutput()
 	SDL_RenderClear(mRenderer);
 
 	// Draw walls
-	SDL_SetRenderDrawColor(mRenderer, 255, 255, 255, 255);
+	SDL_SetRenderDrawColor(mRenderer, 247, 219, 222, 0);
 	
 	// Draw top wall
 	SDL_Rect wall{
