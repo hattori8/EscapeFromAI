@@ -1,8 +1,13 @@
+C++で作っているゲーム(制作途中)
+敵から逃げるゲームで、敵の動きにこだわったゲームを目指して作っています
+
+
+# GameProjectフォルダ
+作っているゲームのコードが入っています
 # Resourceフォルダ
 gameprogcppのコード、変更はしてはならない
 # WorkSpaceフォルダ
-gameprogcppのコードと本をもとに実際作業するファイルが入っている
-追加機能・課題などの編集もこのフォルダ内で行う
+gameprogcppのコードと本をもとに実際作業するファイルが入っています
 # Game Programming in C++ Code
 This repository contains the source code for *Game Programming in C++* by Sanjay Madhav.
 
